@@ -1,0 +1,6 @@
+@Stopwatch_HostAddress = http://localhost:5003
+
+GET {{Stopwatch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
